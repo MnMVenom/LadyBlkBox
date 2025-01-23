@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Counter</title>
+    <style>
+        /* Simple styling to center the content */
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            margin-top: 50px;
+        }
+        #count {
+            font-size: 30px;
+        }
+    </style>
+</head>
+<body>
+
+    <!-- Counter display and buttons -->
+    <div>
+        <button id="subtract">-</button>
+        <span id="count">0</span>
+        <button id="add">+</button>
+    </div>
+
+    <script>
+        // Start count at 0
+        var count = 0;
+
+        // Get elements by ID
+        var countDisplay = document.getElementById('count');
+        var addButton = document.getElementById('add');
+        var subtractButton = document.getElementById('subtract');
+
+        // Function to change the count and update display
+        function updateCount() {
+            countDisplay.innerText = count;
+        }
+
+        // Add event listener for the add button
+        addButton.onclick = function() {
+            count = count + 1;  // Increase the count by 1
+            updateCount();  // Update the count display
+        }
+
+        // Add event listener for the subtract button
+        subtractButton.onclick = function() {
+            count = count - 1;  // Decrease the count by 1
+            updateCount();  // Update the count display
+        }
+
+        // Initialize display
+        updateCount();
+    </script>
+
+</body>
+</html>
