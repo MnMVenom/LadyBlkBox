@@ -1,0 +1,14 @@
+/Users/bmccune/Desktop/C#/FinalShapesApp/FinalProject/obj/Debug/net9.0/FinalShapesApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bmccune/Desktop/C#/FinalShapesApp/FinalProject/obj/Debug/net9.0/FinalShapesApp.AssemblyInfoInputs.cache
+/Users/bmccune/Desktop/C#/FinalShapesApp/FinalProject/obj/Debug/net9.0/FinalShapesApp.AssemblyInfo.cs
+/Users/bmccune/Desktop/C#/FinalShapesApp/FinalProject/obj/Debug/net9.0/FinalShapesApp.csproj.CoreCompileInputs.cache
+/Users/bmccune/Desktop/C#/FinalShapesApp/FinalProject/bin/Debug/net9.0/FinalShapesApp
+/Users/bmccune/Desktop/C#/FinalShapesApp/FinalProject/bin/Debug/net9.0/FinalShapesApp.deps.json
+/Users/bmccune/Desktop/C#/FinalShapesApp/FinalProject/bin/Debug/net9.0/FinalShapesApp.runtimeconfig.json
+/Users/bmccune/Desktop/C#/FinalShapesApp/FinalProject/bin/Debug/net9.0/FinalShapesApp.dll
+/Users/bmccune/Desktop/C#/FinalShapesApp/FinalProject/bin/Debug/net9.0/FinalShapesApp.pdb
+/Users/bmccune/Desktop/C#/FinalShapesApp/FinalProject/obj/Debug/net9.0/FinalShapesApp.dll
+/Users/bmccune/Desktop/C#/FinalShapesApp/FinalProject/obj/Debug/net9.0/refint/FinalShapesApp.dll
+/Users/bmccune/Desktop/C#/FinalShapesApp/FinalProject/obj/Debug/net9.0/FinalShapesApp.pdb
+/Users/bmccune/Desktop/C#/FinalShapesApp/FinalProject/obj/Debug/net9.0/FinalShapesApp.genruntimeconfig.cache
+/Users/bmccune/Desktop/C#/FinalShapesApp/FinalProject/obj/Debug/net9.0/ref/FinalShapesApp.dll
